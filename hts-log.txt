@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 26 Oct 2023 09:08:46 at https://www.ratinhomilionario.com/rt1/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.ratinhomilionario.com/rt1/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "HTTrack Website Copier/3.0x (offline browser; web mirror utility)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.ratinhomilionario.com/rt1/ -O1 "C:\My Web Sites\Site de sinal TIGER" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.ratinhomilionario.com/rt1/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:08:54	Error: 	"Not Found" (404) at link https://www.ratinhomilionario.com/rt1/a (from https://connect.facebook.net/en_US/fbevents.js)
+09:08:54	Error: 	"Not Found" (404) at link https://www.ratinhomilionario.com/rt1/POST (from https://connect.facebook.net/en_US/fbevents.js)
+09:08:54	Error: 	"Not Found" (404) at link https://www.ratinhomilionario.com/rt1/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+09:08:54	Error: 	"Not Found" (404) at link https://www.ratinhomilionario.com/rt1/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+09:08:54	Error: 	"Not Found" (404) at link https://www.ratinhomilionario.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 24 links scanned, 17 files written (1949540 bytes overall) [1716468 bytes received at 214558 bytes/sec], 343094 bytes transferred using HTTP compression in 9 files, ratio 23%, 2.0 requests per connection
+(5 errors, 0 warnings, 0 messages)
